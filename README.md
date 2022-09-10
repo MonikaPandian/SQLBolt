@@ -121,4 +121,5 @@ Exercise 17:
 Exercise 18:
 ![Ex-18-Ques-1-solution](https://user-images.githubusercontent.com/87970544/189479412-0e3b1637-5bc7-4829-8496-41357da0de90.PNG)
 
-![Ex-18-Ques-2-solution](https://user-images.githubusercontent.com/87970544/189479418-16aee894-652d-4388-b359-c2ccec3224c5.PNG)
+![Ex-18-Ques-2-solution](https://user-images.githubusercontent.com/87970544/189480194-53a59ec1-34bb-4dab-84fb-cebebb014879.PNG)
+
